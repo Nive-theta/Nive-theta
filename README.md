@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nive-theta
-- 👀 I’m interested in web technologies, embedded systems and app development
+- 👀 I’m interested in web technologies, embedded systems, machine learning, blockchain and app development
 - 🌱 I’m currently learning web technologies
 - 💞️ I’m looking to collaborate on web technologies
 - 📫
